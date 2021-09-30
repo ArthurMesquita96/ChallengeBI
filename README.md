@@ -1,1 +1,3 @@
 # ChallengeBI
+
+https://app.powerbi.com/view?r=eyJrIjoiOGIzNzFlMjItZmRjOS00Nzg1LTljZGQtZTMzYmZiMDIzNGQyIiwidCI6ImYzNDY2OGQ2LTY4YjQtNGIzNS1hMGIzLWJiMDJlOTU1MDIwZiJ9
