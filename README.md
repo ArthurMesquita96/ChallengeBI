@@ -1,3 +1,10 @@
 # ChallengeBI
 
+Semana 1: Logística
 https://app.powerbi.com/view?r=eyJrIjoiOGIzNzFlMjItZmRjOS00Nzg1LTljZGQtZTMzYmZiMDIzNGQyIiwidCI6ImYzNDY2OGQ2LTY4YjQtNGIzNS1hMGIzLWJiMDJlOTU1MDIwZiJ9
+
+Semana 2: Marketing
+https://app.powerbi.com/view?r=eyJrIjoiNGRlNzM2MjYtOTc3NS00NWU2LTllMjMtMDQ0NGE1ODgzZWRkIiwidCI6ImYzNDY2OGQ2LTY4YjQtNGIzNS1hMGIzLWJiMDJlOTU1MDIwZiJ9&pageName=ReportSection
+
+Semana 3: Financeiro
+https://app.powerbi.com/view?r=eyJrIjoiMjcwMzQyODUtYzk5NC00ODIxLTgwMGMtOWExOTFmZTNiYWJiIiwidCI6ImYzNDY2OGQ2LTY4YjQtNGIzNS1hMGIzLWJiMDJlOTU1MDIwZiJ9
