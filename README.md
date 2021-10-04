@@ -2,7 +2,7 @@
 
 Semana 1: Logística
 
-Nesta primeira semana a Alura disponibilizou 4 base de dados sobre logística:
+Nesta primeira semana a Alura Log disponibilizou 4 base de dados sobre logística:
 - Estoque: contendo o registro de estoque dos produtos por mês
 - Pedidos: contendo o registro de todos os pedidos feitos pelos clientes
 - Produtos: contendo os produtos cadastrados e seus valores
@@ -16,7 +16,7 @@ Semana 2: Marketing
 
 Na segunda semana, o suposto cliente disponibilizou 2 tabelas no formato JSON sobre uma campanha de marketing para fazermos as análises
 As tabelas fornecidas foram:
-- Dispositivos: contencdo informações sobre acessos por dispositivo (mobile, desktop, etc)
+- Dispositivos: contendo informações sobre acessos por dispositivo (mobile, desktop, etc)
 - Idade e Gênero: contendo informações de pessoas que acessaram a página
 
 O objetivo era criar um dashboard estratégico para monitorar uma campanha de publicidade paga.
